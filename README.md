@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="<img width="600" height="324" alt="221936" src="https://github.com/user-attachments/assets/43081008-b5f4-4b93-828f-430b11f07b72" />
-" width="500">
+  <img src="https://github.com/user-attachments/assets/43081008-b5f4-4b93-828f-430b11f07b72" width="500" />
 </p>
 
 # Hi, I'm Jyotirmoy Ray 👋
 
-🎓 A passionate student and a hungry learner
-💻 I love learning new techy things and building with them
-⚽ I also love playing football
+🎓 A passionate student and a hungry learner<br>
+💻 I love learning new techy things and building with them<br>
+⚽ I also love playing football<br>
 📫 Want to talk? Text me on Discord or Instagram, both are linked on my profile
 
 ## 📊 My GitHub Stats
